@@ -1,0 +1,35 @@
+body {
+
+    background-color: tomato;
+
+    font-family: 'Bitter', serif;
+
+}
+
+h1 {
+
+    color: rgb(66, 76, 87);
+
+    text-align: center;
+
+}
+
+.friend {
+
+    background-color: whitesmoke;
+
+    border-radius: .5em;
+
+    padding-left: 1em;
+
+    padding-right: 1em;
+
+}
+
+h3 {
+
+    text-transform: uppercase;
+
+    color: olive
+
+}
